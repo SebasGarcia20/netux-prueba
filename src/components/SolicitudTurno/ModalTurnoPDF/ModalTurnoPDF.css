@@ -1,0 +1,25 @@
+.contenedor-texto {
+    display: grid;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.dialog-title {
+    padding-top: 45px !important;
+    text-align: center;
+}
+
+.title {
+    color: #1F9547;
+    width: 100%;
+    text-align: center;
+}
+
+.negrilla{
+    color: '#3F3F41';
+    font-weight: 600;
+}
+
+.contenedor {
+    text-align: center;
+}

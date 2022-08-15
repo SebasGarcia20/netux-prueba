@@ -1,0 +1,56 @@
+.header {
+    display: flex;
+    width: 100%;
+}
+
+.title-header-logo {
+    border-bottom-right-radius: 60px !important;
+    padding: 45px 55px 35px 55px;
+    text-align: center;
+    width: 24%;
+    z-index: 9;
+}
+
+.title-header-logo>img {
+    width: 85%;
+    height: 80%;
+}
+
+.title-header-progress {
+    border-radius: 0px !important;
+    margin-bottom: 0px;
+    margin-left: -57px;
+    width: 100%;
+}
+
+.contenedor-progress {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 80px 40px 40px;
+    width: 100%;
+}
+
+.contenedor-volver>img {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.contenedor-volver>span {
+    color: #191919
+}
+
+.contenedor-logo {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.text-logo {
+    font-size: 30px;
+}
+
+.text-sublogo {
+    text-align: end;
+    font-size: 10px
+}

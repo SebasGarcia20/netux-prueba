@@ -1,0 +1,42 @@
+.contenedor-paginas {
+    display: flex;
+    width: 100%;
+}
+
+.contenedor-formulario {
+    padding: 50px 70px 50px 100px !important;
+}
+
+.contenedor-img {
+    display: flex;
+    min-height: 500px;
+}
+
+.contenedor-img>img {
+    width: 85%;
+}
+
+.color-title {
+    color: #1F9547;
+}
+
+.contenedor-direccion {
+    display: grid;
+    padding-top: 30px !important;
+}
+
+.contenedor-button {
+    text-align: center;
+    padding-top: 20px !important;
+}
+
+.texto-sede {
+    color: #3F3F41;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.texto-direccion {
+    color: #A5A5A5;
+    font-size: 12px;
+}
