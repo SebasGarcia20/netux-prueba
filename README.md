@@ -1,4 +1,4 @@
-# Ejercicio Práctic sobre Netux
+# Ejercicio Práctico sobre Netux
 
 Se desarrolla una aplicación sobre módulo de solicitud de turno a través de la web para el proyecto MiTurno
 ## Tecnologías implementadas
